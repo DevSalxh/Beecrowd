@@ -1,0 +1,6 @@
+num = int(input())
+hoursMonthly = int(input())
+hoursRate = float(input())
+Salary =(hoursMonthly * hoursRate)
+print('NUMBER =',num)
+print('SALARY = U$ %0.2f' %Salary)
